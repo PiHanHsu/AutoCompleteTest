@@ -1,0 +1,13 @@
+PODS:
+  - Google-Maps-iOS-SDK (1.9.0)
+  - SPGooglePlacesAutocomplete (1.0.4)
+
+DEPENDENCIES:
+  - Google-Maps-iOS-SDK
+  - SPGooglePlacesAutocomplete
+
+SPEC CHECKSUMS:
+  Google-Maps-iOS-SDK: d176593f33f931a500474a46c2a3c3d6d4b187cd
+  SPGooglePlacesAutocomplete: 6352d38dedf40ccac6d728fa50c50fd370d183b9
+
+COCOAPODS: 0.34.4
